@@ -2,7 +2,7 @@
 
 I'm Seongmin Choi, a Junior majoring in AI Convergence at Dongguk University.
 
-👉 **[My Portfolio](https://jjae-seongmin.github.io)**
+👉 **[My Portfolio](https://jjae-seongmin.github.io/)**
 
 ----
 
